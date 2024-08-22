@@ -30,7 +30,7 @@ I'm an **Electronics and Communication Engineer** with a passion for developing 
 - Machine Learning for Embedded Systems
 
 ## 📫 How to Reach Me
-- **Email**: [your.email@example.com](mailto:itz.kathir2005@example.com)
+- **Email**: [your.email@example.com](mailto:itz.kathir2005@gmail.com)
 - **LinkedIn**: [Kathir's LinkedIn](https://www.linkedin.com/in/kathir2005/)
 - **GitHub**: [Kathir's GitHub](https://github.com/kathirr0805)
 
