@@ -1,6 +1,6 @@
 # Hello, I'm Kathir! 👋
 
-Welcome to my GitHub! I'm a VLSI Engineering student at Anna University, passionate about designing cutting-edge processors and intelligent embedded systems. I thrive on crafting innovative solutions in RTL design, IoT, and computer vision, blending hardware and software to solve real-world challenges. Dive into my projects to explore my work in Verilog, Python, and beyond!
+Welcome to my GitHub! I'm a Electronics and Communication Engineering student at Anna University, passionate about designing cutting-edge processors and intelligent embedded systems. I thrive on crafting innovative solutions in RTL design, IoT, and computer vision, blending hardware and software to solve real-world challenges. Dive into my projects to explore my work in Verilog, Python, and beyond!
 
 ## 🛠️ Skills
 
