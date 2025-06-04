@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a VLSI Engineering student at Anna University, passion
 
 ## 🚀 Featured Projects
 
-### [16-bit Single Cycle MIPS Processor](https://github.com/kathirr0805/mips-processor)
+### [16-bit Single Cycle MIPS Processor](https://github.com/kathirr0805/16-bit-Single-Cycle-High-Performance-MIPS-Processor)
 Designed a 16-bit MIPS processor in Verilog, achieving 100 MHz operation with 98% functional coverage, optimized for low power using Vivado synthesis.  
 **Tech**: Verilog, Vivado, ModelSim, UVM  
 **Features**: Single-cycle execution, 10% power reduction, arithmetic/branch support
@@ -44,27 +44,27 @@ Developed a 32-bit RISC-V processor with RV32I instruction set, featuring a 5-st
 **Tech**: Verilog, Vivado, ModelSim, UVM  
 **Features**: Pipelined architecture, 20% throughput improvement, R/I/S-type instructions
 
-### [Early-Stage PPA Prediction for RTL Designs](https://github.com/kathirr0805/ppa-prediction)
+### [Early-Stage PPA Prediction for RTL Designs](https://github.com/kathirr0805/Early-PPA-prediction)
 Built a machine learning system to predict PPA metrics for RTL designs with 85–92% accuracy, using TF-IDF and Random Forest, integrated with a Flask web interface.  
 **Tech**: Python, scikit-learn, Flask, Verilog  
 **Features**: Real-time PPA estimates, 85–92% accuracy, synthesis-free workflow
 
-### [Smart Parking System in Verilog](https://github.com/kathirr0805/smart-parking-verilog)
+### [Smart Parking System in Verilog](https://github.com/kathirr0805/Smart-Car-Parking-System-with-FPGA)
 Designed a Verilog-based smart parking system with ultrasonic and IR sensors, using state machines to control servo motors and LEDs for efficient parking management.  
 **Tech**: Verilog, Vivado, ModelSim  
 **Features**: Sensor-based detection, state machine control, servo/LED integration
 
-### [3-bit Flash ADC in Verilog](https://github.com/kathirr0805/flash-adc-verilog)
+### [3-bit Flash ADC in Verilog](https://github.com/kathirr0805/3-bit-Flash-ADC-in-verilog)
 Implemented a 3-bit Flash ADC in Verilog, featuring a comparator array and encoder for high-speed analog-to-digital conversion, verified via simulation.  
 **Tech**: Verilog, Vivado, ModelSim  
 **Features**: Fast conversion, comparator-based design, simulation-verified output
 
-### [Face Recognition Smart Lock System](https://github.com/kathirr0805/face-recognition-smart-lock)
+### [Face Recognition Smart Lock System](https://github.com/kathirr0805/Face-recognition-smart-lock-system)
 Developed a smart lock using Python and OpenCV, achieving 80% face recognition confidence, with Proteus-simulated Raspberry Pi controlling a motor and LCD.  
 **Tech**: Python, OpenCV, PySerial, Proteus  
 **Features**: 80% recognition accuracy, PIR motion detection, 95% uptime
 
-### [Vehicle Number Plate Detection](https://github.com/kathirr0805/vehicle-number-plate-detection)
+### [Vehicle Number Plate Detection](https://github.com/kathirr0805/https://github.com/kathirr0805/Vehicle-Number-Plate-Detection-using-ESP32)
 Created an IoT-based license plate recognition system with 85% OCR accuracy, using ESP32 and MQTT to display results on an LCD, validated via Wokwi.  
 **Tech**: Python, OpenCV, Tesseract OCR, MQTT, MicroPython  
 **Features**: 85% OCR accuracy, 98% MQTT reliability, real-time LCD display
@@ -74,7 +74,7 @@ I enjoy tinkering with Arduino circuits, am passionate about designing innovativ
 
 ## 📬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kathirr0805)
-- Email: kathirr0805@example.com
+- Email: itz.kathir2005@gmail.com
 - [Portfolio](https://kathirr0805.github.io/portfolio)
 
 ## 📊 GitHub Stats
