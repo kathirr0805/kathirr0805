@@ -1,42 +1,84 @@
-# 👋 Hi, I'm Kathir!
+# Hello, I'm Kathir! 👋
 
-I'm an **Electronics and Communication Engineer** with a passion for developing innovative solutions in **Embedded Systems**, **VLSI Design**, and **IoT**. My journey in technology has led me to contribute to over 10 impactful projects, where I've applied my skills in both hardware and software domains.
+Welcome to my GitHub! I'm a VLSI Engineering student at Anna University, passionate about designing cutting-edge processors and intelligent embedded systems. I thrive on crafting innovative solutions in RTL design, IoT, and computer vision, blending hardware and software to solve real-world challenges. Dive into my projects to explore my work in Verilog, Python, and beyond!
 
-## 🔧 My Skills
-- **Electronics Engineering**: Embedded Systems, IoT, VLSI Design
-- **Software Development**: Full Stack Development, Web Design, UI/UX
-- **Programming**: Verilog, C/C++, Python, JavaScript
-- **Tools**: KiCad, LTSpice, MATLAB, Proteus, Arduino IDE
-- **Design**: Photoshop, Figma, Framer, WixStudio
+## 🛠️ Skills
 
-## 🚀 Recent Projects
-- **AI Assistant for Electronics**: A virtual assistant tailored for electronics enthusiasts, integrating speech recognition, text-to-speech, and component databases.
-- **LED Chaser using CD4017**: Designed a sequential LED chaser circuit using the CD4017 IC, showcasing basic digital electronics principles.
-- **Motion Detection using IR Sensor**: Developed a simple and effective motion detection system utilizing an IR sensor for triggering electronic circuits.
+### VLSI & RTL Design
+![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=flat&logo=verilog) ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-05122A?style=flat)
+- Verilog, SystemVerilog, UVM
+- Vivado, ModelSim, Quartus Prime
+- SoC Design, AXI/APB Protocols
+- RTL Verification, Synthesis Optimization
 
-## 🎓 Education
-- **Bachelor of Engineering (ECE)** - Anna University Regional Campus, Coimbatore (Ongoing)
-  - Current CGPA: 8.3
-- **12th Grade** - SGMHSS, Tamil Nadu Board of Education
-  - Score: 557/600 (92.83%)
+### Embedded Systems
+![Embedded C](https://img.shields.io/badge/-Embedded%20C-05122A?style=flat) ![MicroPython](https://img.shields.io/badge/-MicroPython-05122A?style=flat)
+- Embedded C, MicroPython
+- ESP32, Raspberry Pi, Arduino
+- Proteus, Wokwi Simulation
+- Sensor Integration (PIR, Ultrasonic, IR)
 
-## 📚 Certifications
-- **VLSI for Beginners** - NIELIT, Calicut: Gained hands-on experience with Verilog modeling techniques.
-- **Internet of Things** - Novitech: Covered embedded systems, cloud platforms, and IoT projects using Arduino, NodeMCU, Raspberry Pi, and more.
-- **Full Stack Development** - NoviTech R&D: Completed a 30-day masterclass, equipped with skills in front-end and back-end development.
+### IoT & Communication
+![MQTT](https://img.shields.io/badge/-MQTT-05122A?style=flat) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat)
+- MQTT, Serial Communication
+- Flask Web Interfaces, Web Dashboards
+- Flutter Mobile Apps
+- Cloud Integration (AWS IoT, MQTT Brokers)
 
-## 🌱 I’m Currently Learning
-- Advanced VLSI Design Techniques
-- Machine Learning for Embedded Systems
+### Programming & AI
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat)
+- Python, OpenCV, Tesseract OCR
+- Machine Learning (Random Forest, TF-IDF)
+- NumPy, PySerial, scikit-learn
+- Computer Vision, Image Processing
 
-## 📫 How to Reach Me
-- **Email**: [itz.kathir2005@gmail.com](mailto:itz.kathir2005@gmail.com)
-- **LinkedIn**: [Kathir's LinkedIn](https://www.linkedin.com/in/kathir2005/)
-- **GitHub**: [Kathir's GitHub](https://github.com/kathirr0805)
+## 🚀 Featured Projects
 
-## 💬 Fun Fact
-I enjoy blending my tech skills with creative design, from building circuits to crafting web interfaces. I'm always up for new challenges and learning experiences!
+### [16-bit Single Cycle MIPS Processor](https://github.com/kathirr0805/mips-processor)
+Designed a 16-bit MIPS processor in Verilog, achieving 100 MHz operation with 98% functional coverage, optimized for low power using Vivado synthesis.  
+**Tech**: Verilog, Vivado, ModelSim, UVM  
+**Features**: Single-cycle execution, 10% power reduction, arithmetic/branch support
 
----
+### [RISC Implementation through Verilog](https://github.com/kathirr0805/RISC-V)
+Developed a 32-bit RISC-V processor with RV32I instruction set, featuring a 5-stage pipeline and 98% coverage via UVM testbenches, reducing critical path delay by 15%.  
+**Tech**: Verilog, Vivado, ModelSim, UVM  
+**Features**: Pipelined architecture, 20% throughput improvement, R/I/S-type instructions
 
-*Let's connect and collaborate on exciting projects!*
+### [Early-Stage PPA Prediction for RTL Designs](https://github.com/kathirr0805/ppa-prediction)
+Built a machine learning system to predict PPA metrics for RTL designs with 85–92% accuracy, using TF-IDF and Random Forest, integrated with a Flask web interface.  
+**Tech**: Python, scikit-learn, Flask, Verilog  
+**Features**: Real-time PPA estimates, 85–92% accuracy, synthesis-free workflow
+
+### [Smart Parking System in Verilog](https://github.com/kathirr0805/smart-parking-verilog)
+Designed a Verilog-based smart parking system with ultrasonic and IR sensors, using state machines to control servo motors and LEDs for efficient parking management.  
+**Tech**: Verilog, Vivado, ModelSim  
+**Features**: Sensor-based detection, state machine control, servo/LED integration
+
+### [3-bit Flash ADC in Verilog](https://github.com/kathirr0805/flash-adc-verilog)
+Implemented a 3-bit Flash ADC in Verilog, featuring a comparator array and encoder for high-speed analog-to-digital conversion, verified via simulation.  
+**Tech**: Verilog, Vivado, ModelSim  
+**Features**: Fast conversion, comparator-based design, simulation-verified output
+
+### [Face Recognition Smart Lock System](https://github.com/kathirr0805/face-recognition-smart-lock)
+Developed a smart lock using Python and OpenCV, achieving 80% face recognition confidence, with Proteus-simulated Raspberry Pi controlling a motor and LCD.  
+**Tech**: Python, OpenCV, PySerial, Proteus  
+**Features**: 80% recognition accuracy, PIR motion detection, 95% uptime
+
+### [Vehicle Number Plate Detection](https://github.com/kathirr0805/vehicle-number-plate-detection)
+Created an IoT-based license plate recognition system with 85% OCR accuracy, using ESP32 and MQTT to display results on an LCD, validated via Wokwi.  
+**Tech**: Python, OpenCV, Tesseract OCR, MQTT, MicroPython  
+**Features**: 85% OCR accuracy, 98% MQTT reliability, real-time LCD display
+
+## 🌟 About Me
+I enjoy tinkering with Arduino circuits, am passionate about designing innovative IoT solutions, and once built a gesture-controlled robot in my college lab.
+
+## 📬 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/kathirr0805)
+- Email: kathirr0805@example.com
+- [Portfolio](https://kathirr0805.github.io/portfolio)
+
+## 📊 GitHub Stats
+![Kathir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kathirr0805&show_border=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathirr0805&layout=compact&theme=radical)
+
+Thanks for stopping by! I'm excited to collaborate on VLSI, IoT, and innovative tech projects!
