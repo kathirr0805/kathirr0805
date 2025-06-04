@@ -74,7 +74,7 @@ I enjoy tinkering with Arduino circuits, am passionate about designing innovativ
 
 ## 📬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kathirr0805)
-- Email: itz.kathir2005@gmail.com
+- itz.kathir2005@gmail.com
 - [Portfolio](https://kathirr0805.github.io/portfolio)
 
 ## 📊 GitHub Stats
